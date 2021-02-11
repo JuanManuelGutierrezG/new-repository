@@ -12,6 +12,7 @@ library(FME)
 library(tidyverse)
 library(shinybusy)
 library( shinyWidgets)
+library(ggplot2)
 
 # Source script with functions ####################
 source("functions.R")
