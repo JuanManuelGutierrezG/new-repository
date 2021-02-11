@@ -10,6 +10,8 @@ library(deSolve)
 library(GA)
 library(FME)
 library(tidyverse)
+library(ggplot2)
+
 
 # Source script with functions ####################
 source("functions.R")
