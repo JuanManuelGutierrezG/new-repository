@@ -10,8 +10,6 @@ library(deSolve)
 library(GA)
 library(FME)
 library(tidyverse)
-library(shinybusy)
-library( shinyWidgets)
 
 # Source script with functions ####################
 source("functions.R")
